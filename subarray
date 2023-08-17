@@ -1,0 +1,4 @@
+A subarray denotes a contiguous segment within an array, occupying consecutive positions. For instance, considering the array {1,2,3}, its subarrays include {1}, {1,2}, {1,2,3}, {2}, {2,3}, and {3}.
+
+For an array of size 'n', the total count of non-empty subarrays is given by n*(n+1)/2.
+
